@@ -1,0 +1,69 @@
+{
+  "data": {
+    "app_privacyPolicyLink": "https://sites.google.com/view/featherx/home",
+    "app_updateAppDialogStatus": "0",
+    "app_versionCode": "1",
+    "app_adShowStatus": "1",
+    "app_appOpenStatus": "1",
+    "app_interstitialStatus": "1",
+    "app_nativeStatus": "1",
+    "app_bannerStatus": "1",
+    "app_forwardClickAd": "2",
+    "app_backwardClickAd": "0",
+    "app_forwardInterstitial": "1",
+    "app_backwardInterstitial": "1",
+    "app_nativeBig": "1",
+    "app_nativeBanner": "2",
+    "app_appOpenId": "/6499/example/app-open",
+    "app_bannerId": "ca-app-pub-3940256099942544/6300978111",
+    "app_interstitialId": "/6499/example/interstitial",
+    "app_nativeId": "/6499/example/native",
+    "app_customAdStatus": "1",
+    "app_customAppOpenStatus": "1",
+    "app_customInterstitialStatus": "1",
+    "app_customNativeBannerStatus": "1",
+    "developerDialog": "0",
+    "secondsRemaining": "14",
+    "internetCompulsory": "1",
+    "showDialogBeforeAd": "0",
+    "playStoreRateDialog": "1",
+    "ratedialog": "0",
+    "nativespaceboxColor": "ffffff",
+    "nativebg": "FAEBD7",
+    "nativetitle": "000000",
+    "nativebutton": "2196f3",
+    "nativedescription": "000000",
+    "nativespacebox": "1",
+    "bannerspacebox": "1",
+    "backInterOnOff": "0",
+    "app_customAdData": [
+      {
+        "id": "3",
+        "name": "Qureka",
+        "url": "https://27.go.qureka.com",
+        "appopen_image": "https://woopinfotech.com/app_data_images/NtHAPtj3rDZuyVAH.png",
+        "interstitial_image": "https://woopinfotech.com/app_data_images/Hr0DIRNSaquCfVoZ.png",
+        "small_native_image": "https://woopinfotech.com/app_data_images/549CK6gtExFpWfzK.png",
+        "native_image": "https://woopinfotech.com/app_data_images/SessIAvqWXqUgaVv.png"
+      },
+      {
+        "id": "2",
+        "name": "Predchamp",
+        "url": "https://27.go.predchamp.com",
+        "appopen_image": "https://woopinfotech.com/app_data_images/7xrneuNp69A042up.png",
+        "interstitial_image": "https://woopinfotech.com/app_data_images/yuELI6PqzPXXbSO5.png",
+        "small_native_image": "https://woopinfotech.com/app_data_images/FGpZS3LrOGwyF9Vf.png",
+        "native_image": "https://woopinfotech.com/app_data_images/kAX3rGd4WS2gLHaR.png"
+      },
+      {
+        "id": "1",
+        "name": "Qureka",
+        "url": "http://28.go.qureka.com",
+        "appopen_image": "https://woopinfotech.com/app_data_images/QzikddR888N1CICQ.png",
+        "interstitial_image": "https://woopinfotech.com/app_data_images/aNWjouYxO1PSUz2k.png",
+        "small_native_image": "https://woopinfotech.com/app_data_images/XExECDp4rQXsHVDp.png",
+        "native_image": "https://woopinfotech.com/app_data_images/ucJTphVgVM9QVZQY.png"
+      }
+    ]
+  }
+}
