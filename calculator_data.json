@@ -2,6 +2,10 @@
   "data": {
     "app_privacyPolicyLink": "https://sites.google.com/view/featherx/home",
     "app_updateAppDialogStatus": "0",
+    "app_redirectAppDialogStatus": "0",
+    "app_redirectPackage": "",
+    "app_moreApps": "1",
+    "exit_screen": "1",
     "app_versionCode": "1",
     "app_adShowStatus": "1",
     "app_appOpenStatus": "1",
@@ -10,12 +14,10 @@
     "app_bannerStatus": "1",
     "app_forwardClickAd": "2",
     "app_backwardClickAd": "0",
-    "app_forwardInterstitial": "1",
-    "app_backwardInterstitial": "1",
     "app_nativeBig": "1",
     "app_nativeBanner": "2",
     "app_appOpenId": "/6499/example/app-open",
-    "app_bannerId": "ca-app-pub-3940256099942544/6300978111",
+    "app_bannerId": "/6499/example/banner",
     "app_interstitialId": "/6499/example/interstitial",
     "app_nativeId": "/6499/example/native",
     "app_customAdStatus": "1",
@@ -28,14 +30,52 @@
     "showDialogBeforeAd": "0",
     "playStoreRateDialog": "1",
     "ratedialog": "0",
-    "nativespaceboxColor": "ffffff",
-    "nativebg": "FAEBD7",
-    "nativetitle": "000000",
-    "nativebutton": "2196f3",
-    "nativedescription": "000000",
+    "nativespaceboxColor": "1f1e46",
+    "nativebg": "1f1e46",
+    "nativetitle": "eff2fa",
+    "nativebutton": "FB8C00",
+    "nativedescription": "bdbcbc",
     "nativespacebox": "1",
     "bannerspacebox": "1",
     "backInterOnOff": "0",
+    "more_app": [
+        {
+            "app_name": "Home Workout for Men & Women",
+            "app_packageName": "vi.homeworkout.noequipment.weightloss.fitnesscoach",
+            "app_logo": "https://play-lh.googleusercontent.com/OV-S1ElZ5j_Yx9nP32kOSyJqbkzsIsf6U079rBTUdKDKW_jndl7CZ3S0mMyihH7ScYg=w240-h480-rw",
+            "app_banner": "https://play-lh.googleusercontent.com/OV-S1ElZ5j_Yx9nP32kOSyJqbkzsIsf6U079rBTUdKDKW_jndl7CZ3S0mMyihH7ScYg=w240-h480-rw",
+            "app_shortDecription": "Lose belly fat, get six pack abs and build core strength AT HOME with proved abs workouts! NO EQUIPMENT needed",
+            "app_rating": "4.7",
+            "app_download": "100M"
+        },
+         {
+            "app_name": "All Language Translator",
+            "app_packageName": "ai.translate.all.language.translator.voice.translation",
+            "app_logo": "https://play-lh.googleusercontent.com/Tvqwi0QmrcJgOQMfG6ydlYDDIguI9LsTdraFyPeeGqqIJzJWIjiRrI4dG25PQ09tug=w240-h480-rw",
+            "app_banner": "https://play-lh.googleusercontent.com/Tvqwi0QmrcJgOQMfG6ydlYDDIguI9LsTdraFyPeeGqqIJzJWIjiRrI4dG25PQ09tug=w240-h480-rw",
+            "app_shortDecription": "Translate all Text with Imae, voice translator allow you speak to translate and man more!!",
+            "app_rating": "4.5",
+            "app_download": "50M"
+        },
+         {
+            "app_name": "Weather Forecast: Live Weather",
+            "app_packageName": "lw.weatherlive.forecast.clockwidget.rainalerts",
+            "app_logo": "https://play-lh.googleusercontent.com/MSjY0fRc0TfgeuAcQ5LB8-zpOjq8dm10mQewH6J7rnmKzZx-jYfqeErhyHyXLencAA=w240-h480-rw",
+            "app_banner": "https://play-lh.googleusercontent.com/MSjY0fRc0TfgeuAcQ5LB8-zpOjq8dm10mQewH6J7rnmKzZx-jYfqeErhyHyXLencAA=w240-h480-rw",
+            "app_shortDecription": "Live forecast updates are at your fingertips with The Weather Channel",
+            "app_rating": "4.2",
+            "app_download": "500M"
+        },
+        {
+            "app_name": "Calendar All Languages : Daily Panchang",
+            "app_packageName": "com.latestclander.dailypanchag.hindicalender.gujaratiicalender",
+            "app_logo": "https://play-lh.googleusercontent.com/miNQyQ1kLMYpLplthgzEuYd24PoomW6FGnKKtI4NvAgUyNhzqFwMvShvc9_XmlHOHw=w240-h480-rw",
+            "app_banner": "https://play-lh.googleusercontent.com/miNQyQ1kLMYpLplthgzEuYd24PoomW6FGnKKtI4NvAgUyNhzqFwMvShvc9_XmlHOHw=w240-h480-rw",
+            "app_shortDecription": "New calendar and panchang which is the calendar 2023 new has all details of the daily events Fasting days",
+            "app_rating": "4.2",
+            "app_download": "500M"
+        }
+    ],
     "app_customAdData": [
       {
         "id": "3",
